@@ -1,5 +1,5 @@
 {
-  "name": "personal-website",
+  "name": "sdhanson.github.io",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -17,5 +17,13 @@
   "main": "app.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdhanson/sdhanson.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdhanson/sdhanson.github.io/issues"
+  },
+  "homepage": "https://github.com/sdhanson/sdhanson.github.io#readme"
 }
